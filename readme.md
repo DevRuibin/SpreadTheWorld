@@ -16,6 +16,6 @@ We welcome and encourage all contributions to the 'Spread The World' project! Pl
 Please refer [contributing.md](CONTRIBUTING.MD) to see the guidelines of contribution.
 
 ## License
-This project is licensed under the [MIT License](LICENSE.md).
+This project is licensed under the [MIT License](LICENSE).
 
 For any further queries or issues, feel free to contact us!
