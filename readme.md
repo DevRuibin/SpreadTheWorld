@@ -13,6 +13,8 @@ To get a complete grasp of our project's requirements, please refer to our [Soft
 ## Contributing
 We welcome and encourage all contributions to the 'Spread The World' project! Please don't hesitate to share your ideas, report any bugs, or contribute to the code.
 
+Please refer [contributing.md](CONTRIBUTING.MD) to see the guidelines of contribution.
+
 ## License
 This project is licensed under the [MIT License](LICENSE.md).
 
